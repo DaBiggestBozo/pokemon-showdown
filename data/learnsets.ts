@@ -89703,6 +89703,7 @@ export const Learnsets: import('../sim/dex-species').LearnsetDataTable = {
 			pluck: ["9L11"],
 			protect: ["9M"],
 			quickattack: ["9L7"],
+			raindance: ["9L1"],
 			rest: ["9M"],
 			roost: ["9L24"],
 			scaryface: ["9M"],
